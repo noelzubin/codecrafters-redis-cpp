@@ -1,0 +1,6 @@
+*.out
+*.dSYM
+app/server
+app/parser
+debug.log
+app/*.gch
